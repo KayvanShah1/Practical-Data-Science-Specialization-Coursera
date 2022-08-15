@@ -10,27 +10,27 @@ Practical Data Science Specialization on Coursera contains three courses:
 
 #### Week 1:
 
-- [x] Practice Quiz:  [Week 1](Course 1/Week 1/quiz/Week 1 - Practice Quiz.pdf).
+- [x] Practice Quiz:  [Week 1](https://github.com/KayvanShah1/Practical-Data-Science-Specialization-Coursera/blob/main/Course%201/Week%201/quiz/Week%201%20-%20Practice%20Quiz.pdf).
 
-- [x] Graded External Tool: [Register and visualize dataset](Course 1/Week 1/C1_W1_Assignment.ipynb).
+- [x] Graded External Tool: [Register and visualize dataset](https://github.com/KayvanShah1/Practical-Data-Science-Specialization-Coursera/blob/main/Course%201/Week%201/C1_W1_Assignment.ipynb).
 
 #### Week 2: 
 
-- [x] Practice Quiz: [Week 2](Course 1/Week 2/quiz/Week 2 - Coursera - www.coursera.org.pdf).
+- [x] Practice Quiz: [Week 2](https://github.com/KayvanShah1/Practical-Data-Science-Specialization-Coursera/blob/main/Course%201/Week%202/quiz/Week%202%20-%20Coursera%20-%20www.coursera.org.pdf).
 
-- [x] Graded External Tool: [Detect data bias with Amazon SageMaker Clarify](Course 1/Week 2/C1_W2_Assignment.ipynb).
+- [x] Graded External Tool: [Detect data bias with Amazon SageMaker Clarify](https://github.com/KayvanShah1/Practical-Data-Science-Specialization-Coursera/blob/main/Course%201/Week%202/C1_W2_Assignment.ipynb).
 
 #### Week 3: 
 
-- [x] Practice Quiz: [Week 3](Course 1/Week 3/quiz).
+- [x] Practice Quiz: [Week 3](https://github.com/KayvanShah1/Practical-Data-Science-Specialization-Coursera/tree/main/Course%201/Week%203/quiz).
 
-- [x] Graded External Tool: [Train a model with Amazon SageMaker Autopilot](Course 1/Week 3/C1_W3_Assignment.ipynb).
+- [x] Graded External Tool: [Train a model with Amazon SageMaker Autopilot](https://github.com/KayvanShah1/Practical-Data-Science-Specialization-Coursera/blob/main/Course%201/Week%203/C1_W3_Assignment.ipynb).
 
 #### Week 4:
 
-- [x] Practice Quiz: [Week 4](Course 1/Week 4/quiz).
+- [x] Practice Quiz: [Week 4](https://github.com/KayvanShah1/Practical-Data-Science-Specialization-Coursera/tree/main/Course%201/Week%204/quiz).
 
-- [x] Graded External Tool: [Train a text classifier using Amazon SageMaker BlazingText built-in algorithm](Course 1/Week 4/C1_W4_Assignment.ipynb).
+- [x] Graded External Tool: [Train a text classifier using Amazon SageMaker BlazingText built-in algorithm](https://github.com/KayvanShah1/Practical-Data-Science-Specialization-Coursera/blob/main/Course%201/Week%204/C1_W4_Assignment.ipynb).
 
 ---
 
@@ -40,19 +40,19 @@ Practical Data Science Specialization on Coursera contains three courses:
 
 - [x] Practice Quiz: [Week 1](./course2/week1/Week1_Practice_Quiz.pdf).
 
-- [x] Graded External Tool: [Feature transformation with Amazon SageMaker processing job and Feature Store](./course2/week1/C2_W1_Assignment.ipynb).
+- [x] Graded External Tool: [Feature transformation with Amazon SageMaker processing job and Feature Store](https://github.com/KayvanShah1/Practical-Data-Science-Specialization-Coursera/blob/main/Course%202/Week%201/C2_W1_Assignment.ipynb).
 
 #### Week 2
 
 - [x] Practice Quiz: [Week 2](./course2/week2/Week2_Practice_Quiz.pdf).
 
-- [x] Graded External Tool: [Train a review classifier with BERT and Amazon SageMaker](./course2/week2/C2_W2_Assignment.ipynb).
+- [x] Graded External Tool: [Train a review classifier with BERT and Amazon SageMaker](https://github.com/KayvanShah1/Practical-Data-Science-Specialization-Coursera/blob/main/Course%202/Week%202/C2_W2_Assignment.ipynb).
 
 #### Week 3
 
-- [x] Practice Quiz: [Week 3](./course2/week3/Week3_Practice_Quiz.pdf).
+- [x] Practice Quiz: [Week 3](https://github.com/KayvanShah1/Practical-Data-Science-Specialization-Coursera/tree/main/Course%202/Week%203/quiz).
 
-- [x] Graded External Tool: [SageMaker pipelines to train a BERT-Based text classifier](./course2/week3/C2_W3_Assignment.ipynb).
+- [x] Graded External Tool: [SageMaker pipelines to train a BERT-Based text classifier](https://github.com/KayvanShah1/Practical-Data-Science-Specialization-Coursera/blob/main/Course%202/Week%203/C2_W3_Assignment.ipynb).
 
 ---
 
